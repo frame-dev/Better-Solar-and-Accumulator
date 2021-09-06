@@ -45,3 +45,8 @@ require("prototypes.item.legendary-accumulator")
 require("prototypes.entity.legendary-accumulator")
 require("prototypes.crafting.legendary-accumulator")
 require("prototypes.technology.legendary-accumulator")
+
+-- Steam Turbine
+require("prototypes.entity.steam_turbine")
+require("prototypes.item.steam_turbine")
+require("prototypes.crafting.steam_turbine")
