@@ -46,7 +46,14 @@ require("prototypes.entity.legendary-accumulator")
 require("prototypes.crafting.legendary-accumulator")
 require("prototypes.technology.legendary-accumulator")
 
--- Steam Turbine
-require("prototypes.entity.steam_turbine")
-require("prototypes.item.steam_turbine")
-require("prototypes.crafting.steam_turbine")
+-- Steam Engines
+require("prototypes.entity.steam_enginemk1")
+require("prototypes.item.steam_enginemk1")
+require("prototypes.crafting.steam_enginemk1")
+require("prototypes.technology.steam_enginemk1")
+
+-- Steam Boilers
+
+require("prototypes.entity.steam_boilermk1")
+require("prototypes.item.steam_boilermk1")
+require("prototypes.crafting.steam_boilermk1")
